@@ -5,4 +5,4 @@ There are steps and rules.. we can leverage SQL Server R services to automate co
 
 Please contact with me for implementation 
 
-https://www.linkedin.com/in/prabhjotsgh/
+
